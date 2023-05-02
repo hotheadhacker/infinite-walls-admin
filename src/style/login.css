@@ -1,0 +1,44 @@
+.login-box-wrapper {
+    width: 100%;
+    max-width: 530px;
+    margin: 7% auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: table;
+    height: 100%;
+}
+
+.login-inner {
+    padding: 25px 0px;
+    margin: auto;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.login-inner .box {
+    border-radius: 10px;
+}
+
+.login-inner .title {
+    font-size: 30px;
+    padding: 33px 25px 32px;
+    border-bottom: 2px solid #f1f5fa;
+}
+
+.login-inner .content-box {
+    display: block;
+    position: relative;
+    padding: 25px 25px 40px 25px;
+}
+
+.login-inner .sub-title {
+    font-size: 14px;
+    color: #a5a5b9;
+    padding: 5px 0px 20px;
+}
+
+.form-label {
+    font-size: 14px;
+    color: #222222;
+    font-weight: 500;
+}
